@@ -20,12 +20,12 @@ Video Course - Wes Bos - What The Flexbox?!: - https://www.youtube.com/watch?v=V
 
 Flexbox Froggy - https://flexboxfroggy.com/
 
-MDN Web Docs - Flexbox
+MDN Web Docs - Flexbox - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
-Game - Flexbox Zombies
+Game - Flexbox Zombies - https://mastery.games/flexboxzombies/?d=0a5fd16d-6d57-4775-9121-0ff58cae16d6R
 
-Scrimba - Learn Flexbox for free
+Scrimba - Learn Flexbox for free - https://scrimba.com/learn/flexbox
 
-Use Cases - Solved by Flexbox
+Use Cases - Solved by Flexbox - https://philipwalton.github.io/solved-by-flexbox/
 
-Practice Playground - Flexplorer
+Practice Playground - Flexplorer - https://bennettfeely.com/flexplorer/
